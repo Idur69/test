@@ -7,8 +7,4 @@ if test == "yes":
     print("do unittest")
 else:
     print("Go to sleep")
-    nd = input("Which node?")
-    if test == 'worker':
-        print("you are in worker noe")
-
 
